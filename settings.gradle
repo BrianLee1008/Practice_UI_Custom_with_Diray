@@ -1,0 +1,2 @@
+rootProject.name = "Practice_UICustom01"
+include ':app'

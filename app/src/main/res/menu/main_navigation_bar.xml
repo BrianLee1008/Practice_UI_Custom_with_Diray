@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/My_Page"
+        android:icon="@drawable/icon_test"
+        android:title="MY"
+        android:enabled="true" />
+    <item
+        android:id="@+id/Empty1"
+        android:icon="@drawable/icon_test"
+        android:title="Empty"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/Empty2"
+        android:icon="@drawable/icon_test"
+        android:title="Empty"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/Empty3"
+        android:icon="@drawable/icon_test"
+        android:title="Empty"
+        android:enabled="true"/>
+
+</menu>
